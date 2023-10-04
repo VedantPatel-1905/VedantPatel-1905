@@ -29,6 +29,10 @@ For the past year, I have been devoted to developing my skills in computer progr
 
 <a href="http://www.github.com/VedantPatel-1905"><img src="https://github-readme-stats.vercel.app/api?username=VedantPatel-1905&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="VedantPatel-1905's GitHub stats" /></a>
 
+<a href="http://www.github.com/VedantPatel-1905"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantPatel-1905&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/VedantPatel-1905"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VedantPatel-1905&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/VedantPatel-1905" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPatel-1905&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
