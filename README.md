@@ -8,7 +8,7 @@ For the past year, I have been devoted to developing my skills in computer progr
 
 * 🌍  I'm based in Barrie
 * ✉️  You can contact me at [patelvedant1905@gmail.com](mailto:patelvedant1905@gmail.com)
-* 🧠  I'm learning Database using SQL and PHP
+* 🧠  I'm learning Database using ASP.NET and AZURE Cloud
 * ⚡  With my website skills mastered, I'm now chasing an even greater quest: to become a data science legend!
 
 ### Skills
